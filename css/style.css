@@ -1,0 +1,70 @@
+body {
+  background: black;
+}
+
+#UnitF {
+  /*border: solid 5px blue;*/
+  color: green;
+  font-family: 'Montserrat', sans-serif;
+  font-size: large;
+  margin-bottom: 10px;
+}
+
+#UnitC {
+  /*border: solid 5px blue;*/
+  color: green;
+  font-family: 'Montserrat', sans-serif;
+  font-size: large;
+  margin-bottom: 10px;
+}
+
+#weatherSup1 {
+  color: green;
+  border-bottom: solid 1px blue;
+  font-family: 'Montserrat', sans-serif;
+  font-size: large;
+}
+
+#weatherSup2 {
+  color: green;
+  border-bottom: solid 1px blue;
+  font-family: 'Montserrat', sans-serif;
+  font-size: large;
+}
+
+#weatherSup3 {
+  color: green;
+  border-bottom: solid 1px blue;
+  font-family: 'Montserrat', sans-serif;
+  font-size: large;
+}
+
+.logo {
+  height: 100%;
+  width: 100%
+}
+
+.title {
+  color: blue;
+}
+
+.weather_icon {
+  height: 25%;
+  width: 25%;
+}
+
+.weatherSup {
+  background: #DBD8D8;
+  border: solid 5px blue;
+  border-radius: 25px;
+  margin-top: 35px;
+}
+
+.well {
+  background: #5bc0de;
+  border: solid 5px blue;
+  border-radius: 25px;
+  color: green;
+  font-family: 'Montserrat', sans-serif;
+  font-size: xx-large;
+}
